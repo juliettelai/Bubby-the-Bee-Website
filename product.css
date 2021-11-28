@@ -14,6 +14,7 @@
 .site-header a {
   color: #000000;
   transition: color .15s ease-in-out;
+  text-decoration: none;
 }
 .site-header a:hover {
   color: #fff;
